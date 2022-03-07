@@ -1,4 +1,7 @@
 # InfinitySniper
+
+This no longer works due to discord changing their API against selfbots
+
 Custom Fast Discord Nitro sniper
 Easy to set up
 Download and run the exe. It will make a config.json file for you to put your token in.
